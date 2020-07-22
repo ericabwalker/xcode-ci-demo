@@ -5,4 +5,4 @@ osx_image: xcode11.6
 language: swift
 xcode_project: HalfTunes.xcodeproj # path to your xcodeproj folder
 xcode_scheme: HalfTunes
-xcode_destination: platform=iOS Simulator,OS=13.5,name=iPhone 11
+xcode_destination: platform=iOS Simulator,OS=13.6,name=iPhone 11
