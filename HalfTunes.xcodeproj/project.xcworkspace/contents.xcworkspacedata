@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:/Users/katzm/Dropbox/tdd/tutorial/project/Starter/HalfTunes/HalfTunes.xcodeproj">
+      location = "group:../travis.yml">
+   </FileRef>
+   <FileRef
+      location = "self:">
    </FileRef>
 </Workspace>

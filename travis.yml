@@ -1,0 +1,8 @@
+os: osx
+
+osx_image: xcode12
+
+language: swift
+xcode_project: HalfTunes.xcodeproj # path to your xcodeproj folder
+xcode_scheme: HalfTunesTests
+xcode_destination: platform=iOS Simulator,OS=11.1,name=iPad Pro (9.7-inch)
